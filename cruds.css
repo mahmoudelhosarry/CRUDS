@@ -85,7 +85,8 @@ table {
 }
 @media(max-width:760px){
   .table{
-  width: 50%;
+  width: 80%;
+    overflow: scroll;
   }
 }
 thead tr {
