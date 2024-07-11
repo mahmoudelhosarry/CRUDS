@@ -84,8 +84,8 @@ table {
   text-align: center;
 }
 @media(max-width:760px){
-  .table{
-  width: 80%;
+  table{
+  width: 50%;
     overflow: scroll;
   }
 }
